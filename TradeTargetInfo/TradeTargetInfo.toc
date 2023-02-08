@@ -1,0 +1,5 @@
+## Name: TradeTargetInfo
+## Title: |cff669DFFTradeTargetInfo|r
+## Notes: Empty toc for Curseforge
+## Author: Josh "Kkthnx" Russell
+## Version: 1.0.0
