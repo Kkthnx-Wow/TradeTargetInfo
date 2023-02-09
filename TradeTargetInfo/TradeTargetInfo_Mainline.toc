@@ -6,7 +6,7 @@
 ## Version: 1.0.0
 ## X-Support: DF
 ## SavedVariables: TradeTargetInfoDB
-## X-Curse-Project-ID:
+## X-Curse-Project-ID: 824648
 ## X-Wago-ID:
 
 # Core
